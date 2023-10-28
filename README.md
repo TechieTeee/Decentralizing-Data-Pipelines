@@ -1,3 +1,3 @@
 # Decentralizing Data Pipelines
 
-Survey and comparison of latest tools in data engineering and how they can be combined with decentralized tools to create decentralized data pipelines
+Survey and comparison of latest tools in data engineering and how they can be combined with decentralized tools to create decentralized data pipelines with major, data engineering tools
